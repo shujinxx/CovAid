@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1037066595571",
+    "firebase_url": "https://androidrealtimelocation-e3dc0.firebaseio.com",
+    "project_id": "androidrealtimelocation-e3dc0",
+    "storage_bucket": "androidrealtimelocation-e3dc0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037066595571:android:7daf375f0cb89fdd295b86",
+        "android_client_info": {
+          "package_name": "com.ganshujin.androidrealtimelocation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1037066595571-q1sl7r8194k9uoaplh79m5sfs6rblg8j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ganshujin.androidrealtimelocation",
+            "certificate_hash": "c3c2a5034ae4a6b799c8043e222b28e7785be585"
+          }
+        },
+        {
+          "client_id": "1037066595571-bdvcbtaksmfi5vkj872sa78lf9b47hsi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIblltJ6dFHLlhtu706_SqszvWNWvrsqg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1037066595571-r55sej6ibmtrdsm7vsbuf8u7psomg5d5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
